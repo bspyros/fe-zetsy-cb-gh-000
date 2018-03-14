@@ -60,7 +60,6 @@ header h1 a:hover{
 #about p a{
 	text-decoration: none;
 	color: #1783BB;
-	transition: all 500ms ease 1ms;
 }
 
 #about p a:hover{

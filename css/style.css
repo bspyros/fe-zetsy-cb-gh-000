@@ -67,8 +67,11 @@ header h1 a:hover{
 }
 
 #press a img{
-	border: 5px solid #CACACA;
+	-webkit-transition: border 500ms ease-in-out 1ms;
+	-moz-transition: border 500ms ease-in-out 1ms;
+	-o-transition: border 500ms ease-in-out 1ms;
 	transition: border 500ms ease-in-out 1ms;
+	border: 5px solid #CACACA;
 }
 
 #press a:hover img{

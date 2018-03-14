@@ -38,6 +38,6 @@ header h1 a {
 	font-family: baskerville;
 }
 
-header h1 a:active{
+header h1 a:hover{
 	color: #6F7F7A;
 }

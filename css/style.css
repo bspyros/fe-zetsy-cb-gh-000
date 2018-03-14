@@ -70,6 +70,9 @@ footer p {
 	font-size: 0.8em;
 }
 
-.clearfix {
+.clearfix:after {
+	content: ".";
+	display: block;
+	clear: both;
 	
 }

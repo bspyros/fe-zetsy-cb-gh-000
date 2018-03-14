@@ -19,8 +19,9 @@ body {
 
 /* Write all remaining styles here */
 header {
-	
+	border-bottom: 1px solid #CBCBCB;	
 }
+
 header h1 {
 	color: #9BAAA5;
 }

@@ -37,7 +37,7 @@ header h1 a {
 	font-size: 2.5em;
 	color: #9BAAA5;
 	font-family: baskerville;
-	transition: color 500ms ease 1s;
+	transition: color 500ms ease 1ms;
 }
 
 header h1 a:hover{

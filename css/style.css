@@ -68,6 +68,7 @@ header h1 a:hover{
 
 #press a img{
 	border: 5px solid #CACACA;
+	transition: color 500ms ease 1ms;
 }
 
 #press a:hover img{

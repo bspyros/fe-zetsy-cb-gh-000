@@ -42,3 +42,7 @@ header h1 a {
 header h1 a:hover{
 	color: #6F7F7A;
 }
+
+#about #fe{
+	border: 3px solid #98ADA6;
+}

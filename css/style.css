@@ -56,3 +56,7 @@ header h1 a:hover{
 	text-decoration: none;
 	color: #1783BB;
 }
+
+#about p a:hover{
+	text-decoration: underline;
+}

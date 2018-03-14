@@ -47,7 +47,7 @@ header h1 a:hover{
 	border: 5px solid #98ADA6;
 }
 
-#about h2{
+#about h2, #press h2{
 	color: #6C7B76;
 	font-size: 2em;
 }

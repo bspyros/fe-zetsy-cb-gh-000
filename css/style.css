@@ -37,3 +37,7 @@ header h1 a {
 	color: #9BAAA5;
 	font-family: baskerville;
 }
+
+header h1 a:active{
+	color: #6F7F7A;
+}
